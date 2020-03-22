@@ -24,5 +24,3 @@ class Dog
 end 
 
 
-d = Dog.new("Fluffy", "Golden Retriever")
-d.name = 
