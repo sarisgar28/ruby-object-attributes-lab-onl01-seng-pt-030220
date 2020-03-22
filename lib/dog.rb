@@ -4,9 +4,13 @@ class Dog
     @name = name 
     @breed = breed 
   end
+  
   def name 
-end
+    return @name 
+  end
   
-  
+  def name=(n)
+    @name = n  
+  end  
   
 end 
