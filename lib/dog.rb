@@ -25,4 +25,4 @@ end
 
 
 d = Dog.new("Fluffy", "Golden Retriever")
-d.name
+d.name = 
